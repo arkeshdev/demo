@@ -1,2 +1,2 @@
 # demo
-demo of github
+demo for github.
